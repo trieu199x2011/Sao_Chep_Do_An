@@ -1,0 +1,62 @@
+ĐỀ CƯƠNG ÔN TẬP
+Một số quy tắc chung
+1. Hình thức thi: Thi thực hành
+2. Thời gian thi: 60 phút
+3. Cách tổ chức thi:
+Sinh viên sẽ được cung cấp trước tài nguyên (nếu có) để làm bài thi như cơ sở dữ liệu, thư mục lưu file ảnh mẫu qua internet. Trước khi đi thi, sinh viên cần tải toàn bộ tài nguyên này về máy tính. Link tài nguyên sẽ được giảng viên gửi trước ngày thi diễn ra.
+Sinh viên làm bài trên máy tính của mình, được sử dụng không hạn chế tài nguyên cục bộ trên máy tính của mình, không được mang điện thoại, không được kết nối internet, sao chép usb hay trao đổi với sinh viên khác trong quá trình làm bài. Nếu vi phạm sinh viên sẽ bị đình chỉ thi. Sinh viên cần tự chuẩn bị ổ cắm, máy tính, môi trường lập trình để làm bài thi. Bất cứ sự cố nào liên quan đến việc thiếu chuẩn bị dẫn đến không làm được bài thi thì sinh viên phải tự chịu trách nhiệm.
+Kết thúc thời gian làm bài, giám thị sẽ chấm bài thi trực tiếp trên máy tính của sinh viên. Các chức năng hoạt động theo đúng yêu cầu sẽ được chấm điểm. Giám thị có thể hỏi thêm về bài làm của sinh viên để đánh giá thêm chính xác. Do hạn chế thời gian trong một ca thi, cho nên đối với các chức năng chưa thực thi được, giám thị từ chối đọc code.
+4. Nội dung thi: Phủ toàn bộ những nội dung đã được truyền đạt trên lớp. Chi tiết cho từng môn học như sau:
+Môn Lập trình Web
+-	Thiết kế layout sử dụng html, css, js và các framework tùy chọn. Lưu ý việc tách css, js thành các file riêng, đặt đúng cấu trúc thư mục dự án theo chuẩn cũng là một tiêu chí để đánh giá bài thi.
+-	Áp dụng layout vừa thiết kế cho một dự án ASP.Net MVC
+-	Routing
+-	Trao đổi dữ liệu giữa Controller và View
+-	Sử dụng Razor, HTML Helper để render dữ liệu
+-	Sử dụng Model và Binding data
+-	Sử dụng Annotation
+-	Làm việc với cơ sở dữ liệu SQL Server thông qua Entity Framework: xây dựng các chức năng truy vấn dữ liệu, cập nhật dữ liệu
+-	Sử dụng các template: list, create, edit, detail…
+
+
+
+Môn Lập trình Thiết bị Di động: Sinh viên không được mang điện thoại vào phòng thi, cho nên sinh viên chỉ được test chương trình trên máy ảo.
+-	Sử dụng các view đã học để thiết kế giao diện. Chú ý một số view nâng cao như: listview, action menu, context menu, floating action button
+-	Xây dựng model theo đúng yêu cầu đầu bài. Chú ý yêu cầu về data type khi xây dựng model
+-	Tạo mới, khởi tạo, truy vấn và cập nhật cơ sở dữ liệu SQLite
+-	Render dữ liệu lên giao diện bao gồm cả các chức năng: filtering, sorting, searching
+-	Sử dụng action menu, context menu
+-	Trao đổi dữ liệu giữa các Activity qua Intent
+-	Sử dụng các Action: call, sms, email, alarm…
+-	Confirm, Validation
+ĐỀ CƯƠNG ÔN TẬP
+Một số quy tắc chung
+1. Hình thức thi: Thi thực hành
+2. Thời gian thi: 60 phút
+3. Cách tổ chức thi:
+Sinh viên sẽ được cung cấp trước tài nguyên (nếu có) để làm bài thi như cơ sở dữ liệu, thư mục lưu file ảnh mẫu qua internet. Trước khi đi thi, sinh viên cần tải toàn bộ tài nguyên này về máy tính. Link tài nguyên sẽ được giảng viên gửi trước ngày thi diễn ra.
+Sinh viên làm bài trên máy tính của mình, được sử dụng không hạn chế tài nguyên cục bộ trên máy tính của mình, không được mang điện thoại, không được kết nối internet, sao chép usb hay trao đổi với sinh viên khác trong quá trình làm bài. Nếu vi phạm sinh viên sẽ bị đình chỉ thi. Sinh viên cần tự chuẩn bị ổ cắm, máy tính, môi trường lập trình để làm bài thi. Bất cứ sự cố nào liên quan đến việc thiếu chuẩn bị dẫn đến không làm được bài thi thì sinh viên phải tự chịu trách nhiệm.
+Kết thúc thời gian làm bài, giám thị sẽ chấm bài thi trực tiếp trên máy tính của sinh viên. Các chức năng hoạt động theo đúng yêu cầu sẽ được chấm điểm. Giám thị có thể hỏi thêm về bài làm của sinh viên để đánh giá thêm chính xác. Do hạn chế thời gian trong một ca thi, cho nên đối với các chức năng chưa thực thi được, giám thị từ chối đọc code.
+4. Nội dung thi: Phủ toàn bộ những nội dung đã được truyền đạt trên lớp. Chi tiết cho từng môn học như sau:
+Môn Lập trình Web
+-	Thiết kế layout sử dụng html, css, js và các framework tùy chọn. Lưu ý việc tách css, js thành các file riêng, đặt đúng cấu trúc thư mục dự án theo chuẩn cũng là một tiêu chí để đánh giá bài thi.
+-	Áp dụng layout vừa thiết kế cho một dự án ASP.Net MVC
+-	Routing
+-	Trao đổi dữ liệu giữa Controller và View
+-	Sử dụng Razor, HTML Helper để render dữ liệu
+-	Sử dụng Model và Binding data
+-	Sử dụng Annotation
+-	Làm việc với cơ sở dữ liệu SQL Server thông qua Entity Framework: xây dựng các chức năng truy vấn dữ liệu, cập nhật dữ liệu
+-	Sử dụng các template: list, create, edit, detail…
+
+
+
+Môn Lập trình Thiết bị Di động: Sinh viên không được mang điện thoại vào phòng thi, cho nên sinh viên chỉ được test chương trình trên máy ảo.
+-	Sử dụng các view đã học để thiết kế giao diện. Chú ý một số view nâng cao như: listview, action menu, context menu, floating action button
+-	Xây dựng model theo đúng yêu cầu đầu bài. Chú ý yêu cầu về data type khi xây dựng model
+-	Tạo mới, khởi tạo, truy vấn và cập nhật cơ sở dữ liệu SQLite
+-	Render dữ liệu lên giao diện bao gồm cả các chức năng: filtering, sorting, searching
+-	Sử dụng action menu, context menu
+-	Trao đổi dữ liệu giữa các Activity qua Intent
+-	Sử dụng các Action: call, sms, email, alarm…
+-	Confirm, Validation
